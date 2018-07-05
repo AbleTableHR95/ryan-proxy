@@ -1,0 +1,36 @@
+:global(body) {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar {
+  padding: 0px;
+  background-color: white;
+}
+
+.bodyContainer {
+  position: relative;
+  bottom: 51px;
+}
+
+.bodyNav {
+  border-bottom: 1px solid #EBEBEB;
+}
+
+.moduleNav {
+  padding: 10px 10px 0px 10px;
+}
+
+.bodyNavItem {
+  margin-right: 30px;
+  padding-bottom: 10px;
+}
+
+.bodyNavActive {
+  color: #CA4548;
+  border-bottom: solid 2px;
+  border-color: #CA4548;
+}
+
+.reservationContainer {
+  background-color: white;
+}
